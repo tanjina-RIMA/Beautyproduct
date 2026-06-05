@@ -1,4 +1,4 @@
-from views.main_window import MainWindow
+from views.start_page import StartPage
 
 if __name__ == "__main__":
     app = StartPage()
